@@ -1,0 +1,4 @@
+﻿  01_hello_ex_SDL.cpp
+  LINK : Z:\Users\Nizar\Documents\Visual Studio 2015\Projects\Custom-Game-Engine\TestSDL\Debug\TestSDL.exe not found or not built by the last incremental link; performing full link
+  TestSDL.vcxproj -> Z:\Users\Nizar\Documents\Visual Studio 2015\Projects\Custom-Game-Engine\TestSDL\Debug\TestSDL.exe
+  TestSDL.vcxproj -> Z:\Users\Nizar\Documents\Visual Studio 2015\Projects\Custom-Game-Engine\TestSDL\Debug\TestSDL.pdb (Partial PDB)
